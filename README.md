@@ -20,4 +20,8 @@
   http://localhost:3000
 ```
 
-![upload form](https://github.com/fsarikaya96/speech-to-text-openai-fe/blob/main//public/images/screenshot1.png?raw=true)
+![home](https://github.com/fsarikaya96/speech-to-text-openai-fe/blob/main/public/images/home.png?raw=true)
+
+![speech-to-text-openai](https://github.com/fsarikaya96/speech-to-text-openai-fe/blob/main/public/images/speech-to-text-openai.png?raw=true)
+
+![home](https://github.com/fsarikaya96/speech-to-text-openai-fe/blob/main/public/images/analysis-openai.png?raw=true) 
