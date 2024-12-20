@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+
+/* Header Start */
+header {
+  background-color: #693232;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+header .icon {
+  font-size: 100px;
+  background-color: #ffffff;
+  border-radius: 50%;
+  padding: 5px;
+  margin: 0;
+  color: #080808;
+  position: absolute;
+  top: 70%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+/* Header End */
