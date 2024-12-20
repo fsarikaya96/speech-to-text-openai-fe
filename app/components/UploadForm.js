@@ -84,7 +84,6 @@ export default function UploadForm() {
         },          
       });
       
-      console.log(response)
       // İstek başarısız ise return et
       if (response.data.status === "failure") {
         Swal.fire({
